@@ -47,7 +47,7 @@ Simple Inventory Management System built with Laravel 12 and MySQL.
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/inventory-management.git
+git clone https://github.com/Brovek12/erp-inventory.git
 ```
 
 ---
@@ -55,7 +55,7 @@ git clone https://github.com/your-username/inventory-management.git
 ## 2. Open Project Folder
 
 ```bash
-cd inventory-management
+cd erp-inventory
 ```
 
 ---
