@@ -39,6 +39,8 @@ Simple Inventory Management System built with Laravel 12 and MySQL.
 - Bootstrap 5
 - Vite
 - Laravel Breeze
+- Node (v22.22.2)
+  
 
 ---
 
